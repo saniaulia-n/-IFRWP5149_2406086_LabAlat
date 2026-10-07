@@ -1,0 +1,5 @@
+No. Temuan                                          Perbaikan yang diperlukan                        Alasan 
+1    Aktor Mahasiswa berada di dalam batas sistem    Pindahkan aktor Mahasiswa ke luar batas sistem  Aktor harus berada di luar batas sistem, sedangkan batas sistem digunakan untuk menunjukkan sistem yang sedang dibahas. 
+2    Fungsi Lihat jadwal digambar sebagai kotak      Ubah Lihat jadwal menjadi bentuk elips/use case Use case harus digambarkan dengan bentuk elips dan berisi fungsi yang dilakukan oleh sistem. 
+3    Aktor Mahasiswa terhubung dengan Kelola jadwal kuliah  Hapus hubungan tersebut dan hubungkan Mahasiswa dengan Lihat jadwal kuliah Sesuai skenario, Mahasiswa hanya melihat jadwal kuliah, sedangkan yang mengelola jadwal adalah Admin akademik.
+4    Judul sistem masih menggunakan Sistem Informasi Peminjaman dan Pengembalian Peralatan Laboratorium  Ganti judul menjadi Sistem Informasi Akademik  Judul harus sesuai dengan kasus yang sedang dikerjakan, yaitu Sistem Informasi Akademik. 
