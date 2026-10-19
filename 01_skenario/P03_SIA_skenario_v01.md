@@ -29,9 +29,11 @@ SIA-UC05    unduh bukti pengajuan KRS   mahasiswa               SIA-R05
 SIA-UC06    proses keputusan KRS        dosen wali              SIA-R06
 
 RELASI INCLUDE
+SIA-UC03 <<include>> SIA-UC04
+Alasan : proses validasi KRS merupakan bagian wajib dari bagian pengajuan KRS
 
-
-
-relasi extend
-
-(harus ada 7 tabel)
+RELASI EXTEND
+SIA-UC05 <<extend>> SIA-UC03
+Extension point : konfirmasi pengajuan berhasil
+Kondisi : mahasiswa memilih mengunduh bukti
+Alasan : pengunduhan bukti merupakan perilaku tambahan yang bersifat opsional

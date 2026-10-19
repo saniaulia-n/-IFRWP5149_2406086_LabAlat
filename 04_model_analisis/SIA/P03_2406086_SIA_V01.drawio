@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="j4e5HsM6SscYac6GN5Ru">
+    <mxGraphModel dx="1334" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZeTULuCSycc9jcGPb5K9-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Sistem Informasi Akademik" vertex="1">
+          <mxGeometry height="390" width="360" x="500" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTULuCSycc9jcGPb5K9-2" parent="ZeTULuCSycc9jcGPb5K9-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Ajukan KRS" vertex="1">
+          <mxGeometry height="50" width="90" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTULuCSycc9jcGPb5K9-3" parent="ZeTULuCSycc9jcGPb5K9-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Unduh Bukti Pengajuan KRS" vertex="1">
+          <mxGeometry height="50" width="100" x="35" y="217" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTULuCSycc9jcGPb5K9-4" parent="ZeTULuCSycc9jcGPb5K9-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Validasi KRS" vertex="1">
+          <mxGeometry height="50" width="90" x="230" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTULuCSycc9jcGPb5K9-5" parent="ZeTULuCSycc9jcGPb5K9-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Proses Keputusan KRS" vertex="1">
+          <mxGeometry height="50" width="100" x="40" y="294" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTULuCSycc9jcGPb5K9-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="410" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTULuCSycc9jcGPb5K9-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Dosen Wali" vertex="1">
+          <mxGeometry height="60" width="30" x="410" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
