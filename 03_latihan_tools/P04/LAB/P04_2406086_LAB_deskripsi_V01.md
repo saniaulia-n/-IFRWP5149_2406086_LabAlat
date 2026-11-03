@@ -1,0 +1,30 @@
+Elemen 
+LAB-UC11: Catat Pengembalian Peralatan 
+ID dan nama 
+LAB-UC11: Catat Pengembalian Peralatan 
+
+Elemen 
+LAB-UC11: Catat Pengembalian Peralatan 
+Sumber kebutuhan 
+LAB-R09 dan LAB-R10 
+Tujuan 
+Aktor utama 
+Pengembalian tercatat dan status peminjaman serta kondisi 
+peralatan terbarui 
+Petugas Laboratorium 
+Pemicu 
+Petugas memilih fungsi pencatatan pengembalian dan 
+menentukan peminjaman yang akan dikembalikan 
+Prasyarat 
+Petugas telah terautentikasi; peminjaman terpilih berstatus 
+Dipinjam 
+Pascakondisi 
+berhasil 
+Pengembalian tercatat dengan tanggal kembali dan kondisi 
+peralatan; status peminjaman menjadi Selesai 
+Pascakondisi gagal Tidak ada pengembalian baru yang tercatat; status 
+peminjaman tidak berubah 
+Include 
+Collaboration 
+LAB-UC12: Periksa Kondisi Peralatan 
+LAB-CO02: Catat Pengembalian Peralatan
