@@ -4,6 +4,7 @@
 - 📫 pertemuan 3 **USE CASE DIAGRAM DAN USE CASE DESCRIPTION **
 - 📫 pertemuan 4 **USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN 
                   COLLABORATION **
+  📫 pertemuan 5 **SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/saniaulia-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saniaulia-n" height="30" width="40" /></a>
